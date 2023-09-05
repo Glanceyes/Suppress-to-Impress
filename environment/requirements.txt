@@ -1,0 +1,13 @@
+ftfy
+opencv-python
+ipywidgets
+matplotlib
+pyrallis
+scikit-image
+pycocotools
+diffusers==0.12.1
+transformers==4.26.0
+jupyter
+accelerate
+spacy
+numpy
